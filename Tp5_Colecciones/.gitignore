@@ -1,0 +1,26 @@
+# Java / NetBeans / Maven
+target/
+build/
+dist/
+out/
+*.class
+*.log
+
+# Maven metadata
+.mvn/
+**/maven-status/
+**/maven-archiver/
+
+# IDEs
+.nb-gradle/
+.nb-gradle-properties
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
