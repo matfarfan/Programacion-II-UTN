@@ -1,0 +1,10 @@
+build/
+dist/
+*.class
+*.log
+*.iml
+.nb-gradle/
+.nb-gradle-properties
+out/
+.DS_Store
+Thumbs.db
